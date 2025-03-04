@@ -40,7 +40,7 @@ nav ul li a {
     font-size: 16px;
 }
 
-.hero img {
+.topImage img {
     width: 100%;
     height: auto;
     margin-top: 60px; /* To prevent overlap with fixed header */
