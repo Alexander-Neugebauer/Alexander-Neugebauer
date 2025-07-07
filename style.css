@@ -88,3 +88,14 @@ main h1 {
     font-size: 14px;
     color: #ccc;
 }
+
+.center-image {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.center-image img {
+    max-width: 60%;
+    height: auto;
+    background: transparent;
+}
